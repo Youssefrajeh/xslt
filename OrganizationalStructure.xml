@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<organization name="The ABC Toy Company">
+  <associate name ="T. Baldwin" role="Chief Executive Officer">
+    <manager-for>
+      <associate name ="S. Talbot" role="Vice-President, Marketing">
+        <manager-for>
+          <associate name ="B. McAdams" role="Director, Customer Rewards Program">
+            <manager-for>
+              <associate name ="H. Zukarov" role="Team Leader, Rewards Management"/>
+              <associate name ="N. Chen" role="Team Leader, Rewards Conversion"/>
+            </manager-for>
+          </associate>
+        </manager-for>
+      </associate>
+      <associate name ="V. Singh" role="Vice-President, R &amp; D">
+        <manager-for>
+          <associate name ="B. Schwinn" role="Team Leader, Games R &amp; D"/>
+          <associate name ="I. Bendavi" role="Team Leader, Toys R &amp; D"/>
+        </manager-for>
+      </associate>
+      <associate name ="M. Chenney" role="Vice-President, Operations">
+        <manager-for>
+          <associate name ="L. Martinez" role="Team Leader, Games R &amp; D"/>
+          <associate name ="N. Zui" role="Team Leader, Toys R &amp; D"/>
+        </manager-for>
+      </associate>
+    </manager-for>
+   </associate>
+</organization>
